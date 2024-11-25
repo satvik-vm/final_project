@@ -16,7 +16,7 @@ In this project, I have integrated the WideResnet model, pretrained on mini Imag
 
 ### WideResNet Checkpoints
 
-1. Download the WideResNet checkpoints from [my onedrive](https://iiitbac-my.sharepoint.com/:f:/g/personal/satvik_verma_iiitb_ac_in/En6DljDFwPBGodX5JT_SrJcBJ5gMfbcM3Z_GD68PvXLKKg?e=d5Df84).
+1. Download the WideResNet checkpoints from [my onedrive](https://iiitbac-my.sharepoint.com/:f:/g/personal/satvik_verma_iiitb_ac_in/Eptf-_lau2FGiZ7E-WBJNd8BAaVoi_q-1gwji0Mfv9djSQ?e=kLzFGJ).
 
 2. Place the unzipped folder in the root of the project (where train.py is located).
 
