@@ -20,14 +20,6 @@ In this project, I have integrated the WideResnet model, pretrained on mini Imag
 
 2. Place the unzipped folder in the root of the project (where train.py is located).
 
-
-## About the Dataset
-
-The Dataset is in the ``Datasets/mini_image_net`` directory.
-
-Also can be downloaded from [this link](https://lyy.mpi-inf.mpg.de/mtl/download/Lmzjm9tX.html).
-
-
 ## About the files
 
 1. The WideResNet model is written in wrn_mixup_model.py.
